@@ -50,5 +50,5 @@ If you appreciate my projects and content, consider supporting me:
 
 [website]: https://atif-hasan.vercel.app/
 [youtube]: https://youtube.com/UCjOB00rT2VkuLBThYr0dZ8A
-[instagram]: https://instagram.com/atif_hasan_250/
+[instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://linkedin.com/in/atif-hasan-6850a122a/
