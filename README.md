@@ -1,4 +1,4 @@
-## Hi there, I'm Atif Hasan 👋
+# Hi there, I'm Atif Hasan 👋
 
 ### [🌐 Agency Website](https://fr-softwares.netlify.app/) &nbsp; | &nbsp; [💼 Portfolio](https://atif-hasan.vercel.app/)
 
@@ -10,7 +10,7 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 
 ---
 
-### 🛠️ Skills & Interests
+## 🛠️ Skills & Interests
 
 - **Web Development**: JavaScript, React, Node.js, and modern web frameworks
 - **UI/UX Design**: Figma, Adobe XD, and user-centric design thinking
@@ -18,7 +18,7 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 
 ---
 
-### 🌱 Currently
+## 🌱 Currently
 
 - Diving deeper into **Full Stack Development** and **3D Web Technologies**
 - Actively contributing to **Open Source** projects
