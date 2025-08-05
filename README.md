@@ -2,13 +2,13 @@
 
 ## [🌐 Agency Website](https://fr-softwares.netlify.app/) &nbsp; | &nbsp; [💼 Portfolio](https://atif-hasan.vercel.app/)
 
----
+
 
 ## 🚀 About Me
 
 I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs. I thrive on solving problems, learning new technologies, and collaborating with creative minds from around the world.
 
----
+
 
 ## 🛠️ Skills & Interests
 
@@ -16,7 +16,7 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 - **UI/UX Design**: Figma, Adobe XD, and user-centric design thinking
 - **Continuous Learning**: Always exploring new tools, frameworks, and design trends
 
----
+
 
 ## 🌱 Currently
 
@@ -25,7 +25,7 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 - Building engaging content for my **YouTube channel**
 - Open to collaborations with developers, designers, and creators
 
----
+
 
 
 
@@ -37,7 +37,7 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 [<img align="left" alt="Instagram" width="30px"  src="wired-flat-2542-logo-instagram-hover-pinch.svg" />][instagram]
 <br />
 
----
+
 
 
 ## ☕ Support My Work
@@ -52,3 +52,4 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/UCjOB00rT2VkuLBThYr0dZ8A
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://linkedin.com/in/atif-hasan-6850a122a/
+
