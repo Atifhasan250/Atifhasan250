@@ -1,6 +1,7 @@
 # Hi there, I'm Atif Hasan 👋
 
-## [🌐 Agency Website](https://fr-softwares.netlify.app/) &nbsp; | &nbsp; [💼 Portfolio](https://atif-hasan.vercel.app/)
+## [🌐 Agency Website](https://fr-softwares.netlify.app/) 
+## [💼 Portfolio](https://atif-hasan.vercel.app/)
 
 
 
@@ -52,4 +53,5 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/UCjOB00rT2VkuLBThYr0dZ8A
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://linkedin.com/in/atif-hasan-6850a122a/
+
 
