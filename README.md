@@ -1,13 +1,13 @@
 # Hi there, I'm Atif Hasan 👋
 
 ## [🌐 Agency Website](https://fr-softwares.netlify.app/) 
-## [💼 Portfolio](https://atif-hasan.vercel.app/)
+## [💼 Portfolio](https://atifs-portfolio.vercel.app/)
 
 
 
 ## 🚀 About Me
 
-I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs. I thrive on solving problems, learning new technologies, and collaborating with creative minds from around the world.
+### I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs and ideas.
 
 
 
@@ -23,7 +23,6 @@ I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designe
 
 - Diving deeper into **Full Stack Development** and **3D Web Technologies**
 - Actively contributing to **Open Source** projects
-- Building engaging content for my **YouTube channel**
 - Open to collaborations with developers, designers, and creators
 
 
@@ -49,9 +48,10 @@ If you appreciate my projects and content, consider supporting me:
 
 ---
 
-[website]: https://atif-hasan.vercel.app/
-[youtube]: https://youtube.com/UCjOB00rT2VkuLBThYr0dZ8A
+[website]: https://atifs-portfolio.vercel.app/
+[youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
-[linkedin]: https://linkedin.com/in/atif-hasan-6850a122a/
+[linkedin]: https://www.linkedin.com/in/atifhasan250/
+
 
 
