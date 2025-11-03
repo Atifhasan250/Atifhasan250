@@ -19,16 +19,6 @@
 
 
 
-## 🌱 Currently
-
-- Diving deeper into **Full Stack Development** and **3D Web Technologies**
-- Actively contributing to **Open Source** projects
-- Open to collaborations with developers, designers, and creators
-
-
-
-
-
 ## 📬 Connect with Me
 
 [<img align="left" alt="Website" width="30px"  src="wired-flat-2579-logo-wordpress-hover-pinch.svg" />][website] 
@@ -52,6 +42,7 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://www.linkedin.com/in/atifhasan250/
+
 
 
 
