@@ -1,4 +1,4 @@
-# Hi there, I'm Atif Hasan 👋
+# Hi there, I'm Atif Hasan 
 
 ## [🌐 Agency Website](https://fr-softwares.netlify.app/) 
 ## [💼 Portfolio](https://atifs-portfolio.vercel.app/)
@@ -42,6 +42,7 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://www.linkedin.com/in/atifhasan250/
+
 
 
 
