@@ -10,7 +10,7 @@
 
 ## 🚀 About Me 
 
-### I'm Atif Hasan, a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs and ideas. 
+### I'm a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs and ideas. 
  [More->](https://atifs-info.vercel.app/)
 
 
@@ -46,6 +46,7 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://www.linkedin.com/in/atifhasan250/
+
 
 
 
