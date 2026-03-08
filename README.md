@@ -8,14 +8,14 @@
 
 </br>
 
-## 🚀 About Me 
+## About Me 
 
 ### I'm a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs and ideas. 
  [More->](https://atifs-info.vercel.app/)
 
 
 
-## 🛠️ Skills & Interests
+## Skills & Interests
 
 - **Web Development**: JavaScript, React, Node.js, and modern web frameworks
 - **UI/UX Design**: Figma, Adobe XD, and user-centric design thinking
@@ -23,7 +23,7 @@
 
 
 
-## 📬 Connect with Me
+## Connect with Me
 
 [<img align="left" alt="Website" width="30px"  src="wired-flat-2579-logo-wordpress-hover-pinch.svg" />][website] 
 [<img align="left" alt="YouTube" width="30px"  src="wired-flat-2547-logo-youtube-hover-pinch.svg" />][youtube]
@@ -34,7 +34,7 @@
 
 </br>
 
-## ☕ Support My Work
+## Support My Work
 
 If you appreciate my projects and content, consider supporting me:
 
@@ -46,6 +46,7 @@ If you appreciate my projects and content, consider supporting me:
 [youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://www.linkedin.com/in/atifhasan250/
+
 
 
 
