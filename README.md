@@ -3,7 +3,7 @@
 <h2>
   <a href="https://fr-softwares.netlify.app/"> 🌐 Agency Website </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://atifs-portfolio.vercel.app/"> 💼 Portfolio </a>
+  <a href="https://atifhasan.com/"> 💼 Portfolio </a>
 </h2>
 
 </br>
@@ -11,7 +11,7 @@
 ## About Me 
 
 ### I'm a passionate **Student**, **Web Developer**, and **UI/UX Designer** with a keen interest in creating interactive digital experiences and visually compelling designs and ideas. 
- [More->](https://atifs-info.vercel.app/)
+ [More->](https://info.atifhasan.com/)
 
 
 
@@ -42,7 +42,7 @@ If you appreciate my projects and content, consider supporting me:
 
 ---
 
-[website]: https://atifs-portfolio.vercel.app/
+[website]: https://atifhasan.com/
 [youtube]: https://youtube.com/c/FRSoftwares
 [instagram]: https://instagram.com/_atif_hasan_/
 [linkedin]: https://www.linkedin.com/in/atifhasan250/
